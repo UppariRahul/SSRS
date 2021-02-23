@@ -1,10 +1,7 @@
 -- MODULE : B9DA102 Data Storage Solutions for Data Analytics
--- GROUP B (Slot 4)
 
--- Subramaniam Kazhuparambil (10524303)
 -- Rahul Ramchandra Uppari (10523807)
--- Deeksha Sharma (10522688) 
--- Mohit Singh (10525046)
+
 -- QUERIES for creating SSRS reports --
 
 -- SSRS Driver-At-Fault Report --
